@@ -1,0 +1,9 @@
+C:\Prog\ConsoleApp\DitaParser\bin\Debug\netstandard2.0\DitaParser.deps.json
+C:\Prog\ConsoleApp\DitaParser\bin\Debug\netstandard2.0\DitaParser.dll
+C:\Prog\ConsoleApp\DitaParser\bin\Debug\netstandard2.0\DitaParser.pdb
+C:\Prog\ConsoleApp\DitaParser\obj\Debug\netstandard2.0\DitaParser.csprojAssemblyReference.cache
+C:\Prog\ConsoleApp\DitaParser\obj\Debug\netstandard2.0\DitaParser.csproj.CoreCompileInputs.cache
+C:\Prog\ConsoleApp\DitaParser\obj\Debug\netstandard2.0\DitaParser.AssemblyInfoInputs.cache
+C:\Prog\ConsoleApp\DitaParser\obj\Debug\netstandard2.0\DitaParser.AssemblyInfo.cs
+C:\Prog\ConsoleApp\DitaParser\obj\Debug\netstandard2.0\DitaParser.dll
+C:\Prog\ConsoleApp\DitaParser\obj\Debug\netstandard2.0\DitaParser.pdb

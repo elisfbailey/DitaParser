@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0JhZMSqEYCYZoDBEzMouJ1CdYWRK6r+WT/UaW2jdvTnlc6uR0jsH7zd9ZI6P0delp6UkHywd5eKQn8CIdsDOKw==",
+  "success": true,
+  "projectFilePath": "C:\\Prog\\ConsoleApp\\DitaParser\\DitaParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eli\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Eli\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
