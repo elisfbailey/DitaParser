@@ -25,35 +25,28 @@ namespace DitaParser
     }
     public class ElinorClass
     {
-        // Gets/sets the InputProperty
-        public string InputProperty { get; set; }
-
-        // Creates a new list
         public List<string> inputList = new List<string>();
 
-
-        // Initialises new instance of ListClass with one input variable
-        public ElinorClass(string input)
-        {
-            this.InputProperty = input;
-        }
+        public ElinorClass(string input) {}
 
         // Adds InputProperty to the created list
-        public string CreateList(string InputProperty)
+        public void CreateList(string var1)
         {
-            string create = inputList.Add(this.InputProperty);
-            return create;
-
+            inputList.Add(var1);
         }
 
         // returns each entry in the list with a comma separator
         public string SeparateList()
         {
+            string formatted = "";
             foreach (string item in inputList)
             {
-                string formatted = this.InputProperty + ", ";
-                return formatted;
+                formatted = formatted + item + ", ";
+                
             }
+            formatted.Trim().Trim(',');
+            return formatted;
+            
         }
     }
 }

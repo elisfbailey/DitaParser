@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KHpxF9eOpjdTzRHSF12zG6ySbs4FEQE6RPQHddV7MJpBBAl4qf7v9bD2wCQhmIj156Z5qz1uRF+6y8/+gLUkYg==",
+  "dgSpecHash": "p406NyCyoS0CmwKMeacwEPDyhXqrLyIoHfNztVdn7xs8r8FZQkbgI/RgVFcSTsVCQLHB1A2VMtGISFZRLvZ2Kg==",
   "success": true,
-  "projectFilePath": "C:\\Prog\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\Prog\\ConsoleApp\\ConsoleApp\\TestDitaParser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
